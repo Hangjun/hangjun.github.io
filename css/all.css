@@ -430,7 +430,7 @@ footer {
 }
 
 header {
-  background-image: url(/img/header-img-precomp.png);
+  background-image: url(../img/header-img-precomp.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -603,7 +603,7 @@ nav {
   height: 70px;
   width: 70px;
   overflow: hidden;
-  background-image: url(/img/cross.png);
+  background-image: url(../img/cross.png);
   background-repeat: no-repeat;
   z-index: 1000;
   cursor: pointer;
@@ -618,8 +618,8 @@ nav {
   height: 200px;
   width: 200px;
   margin-top: 2em;
-  background: url("/img/profile-pic.png") center center no-repeat;
-  background: url("/img/profile-pic.png") center center no-repeat;
+  background: url("../img/profile-pic.png") center center no-repeat;
+  background: url("../img/profile-pic.png") center center no-repeat;
 }
 
 #about-para {
@@ -894,7 +894,7 @@ img:hover {
 
 /* Change background image here! */
 header {
-  background-image: url(/img/header-img-precomp.png);
+  background-image: url(../img/header-img-precomp.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -1068,7 +1068,7 @@ nav {
   height: 70px;
   width: 70px;
   overflow: hidden;
-  background-image: url(/img/cross.png);
+  background-image: url(../img/cross.png);
   background-repeat: no-repeat;
   z-index: 1000;
   cursor: pointer;
